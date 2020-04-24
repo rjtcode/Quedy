@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "115573530398",
+    "firebase_url": "https://quedy-7d97c.firebaseio.com",
+    "project_id": "quedy-7d97c",
+    "storage_bucket": "quedy-7d97c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115573530398:android:aa9f0b54ac2e0e88a3330f",
+        "android_client_info": {
+          "package_name": "com.boo.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115573530398-i258jbr6j8621hj8bn2ihc324f06cs2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXBfzXjcTp8Lg9JCGxkNRZu8BhtaQ-baI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115573530398-i258jbr6j8621hj8bn2ihc324f06cs2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
